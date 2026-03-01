@@ -26,6 +26,27 @@ of these points.
 
 _______________________________________________________________________________
 
-### The five canons of rhetoric
+### The five canons (principles) of rhetoric
+
+1. Invention = The process of sorting through all of the things 
+that you could say and then deciding what to include and exclude.
+
+It's about finding a balance between what the audience needs to hear,
+and what you want to say.
+
+2. Arrangement = This is the part where you organize the speach.
+How long should the intro be? How to arrange the main point? Think about
+how the audience will hear the speach in real time. 
+What order will you address each point?
+
+3. Style = How you will say what you have to say? How will the audience
+respond to word choices?
+
+4. Memory = Memory techniques to help you remembering your speach. 
+You don't have to memorize your speach word for word, 
+but you should know it deeply enough to remember the overaching points 
+from start to finish.
+
+5. Delivery = Projection, Intonation, Movement
 
 _______________________________________________________________________________
