@@ -40,7 +40,7 @@ how the audience will hear the speach in real time.
 What order will you address each point?
 
 3. Style = How you will say what you have to say? How will the audience
-respond to word choices?
+respond to word choices? Using the most effective language.
 
 4. Memory = Memory techniques to help you remembering your speach. 
 You don't have to memorize your speach word for word, 
