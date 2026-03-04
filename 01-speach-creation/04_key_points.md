@@ -58,6 +58,61 @@ _______________________________________________________________________________
 
 ### Choosing keypoint topics
 
+Note: These are just general ideas. You topic will control how you talk
+about it.
 
+For a short speach 2 or 4 keypoints is fine (But this depends on the length),
+for longer presentations, break them into chunks of 2 - 4 keypoints
+
+Too many keypoints could cause a cognitive overload in your audience.
+
+Start with your thesis (aka claim)
+
+1. The short term impact of something / long term impact of something
+
+2. The past impact of something / the present / and what you think will happen
+in the future
+
+3. What you think you think will increase / or decrease
+
+4. Cause and effect (Why did X happen? / The impact today?)
+
+5. Division (Can you divide the topic into parts? E.g. Rust vs Python
+Pros of Rust and Pros of Python. Showing that one thing going up does not
+mean something else is going down)
+
+6. Definition = This is when you have a speech where you are definining
+
+_______________________________________________________________________________
+
+### Subordinating your keypoints
+
+Subordination is making sure that all your keypoints align to the topic.
+
+Tip: `If someone had no idea what your speech was about, 
+how accurately could they guess the title or topic of your speech by 
+by simply looking at your keypoints`
+
+This keeps you from going off on a tangent about things that are unrelated
+to your speach.
+_______________________________________________________________________________
+
+### Coordination and Discreteness
+
+coordination = all the keypoints work well together.
+
+discreteness = Make sure that the keypoints don't overlap and that you
+aren't uneccessarily repeating yourself.
+
+Each key point should have a central idea.
+
+Use `evocative words` and place them at the beginning or end of your keypoint.
+
+_______________________________________________________________________________
+
+Parallel phrasing
+
+Using the same grammatical structure more than once in a sentence 
+or series of sentences.
 
 _______________________________________________________________________________
